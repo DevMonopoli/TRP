@@ -1,14 +1,6 @@
 [
-    {
-    "name": "SanTrope RP #1",
-    "addr": "80.66.71.44:5125",
-    "gamemode": " X2",
-    "players": 0,
-    "maxplayers": 1000,
-    "api": "http://80.66.71.44/"
-  },
   {
-    "name": "Trapex RP #0",
+    "name": "Test Server | #0",
     "addr": "141.95.234.16:1773",
     "gamemode": " X2",
     "players": 0,
