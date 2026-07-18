@@ -1,10 +1,10 @@
 [
   {
-    "name": "Test Server | #0",
-    "addr": "141.95.234.16:1773",
-    "gamemode": " X2",
+    "name": "SanTrope Trilogy | #1",
+    "addr": "54.38.117.76:1321",
+    "gamemode": "NEW X4",
     "players": 0,
-    "maxplayers": 1000,
-    "api": "http://141.95.234.16/"
+    "maxplayers": 500,
+    "api": "http://54.38.117.76:1321/"
   }
 ]
